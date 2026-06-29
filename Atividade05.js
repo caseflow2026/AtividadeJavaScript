@@ -1,4 +1,5 @@
 // Objeto do evento
+
 const evento = {
     nome: "Semana da Tecnologia",
     local: "Auditório",
@@ -36,7 +37,7 @@ exibirEvento(evento);
 
 // entrada 2
 
-const evento = {
+const evento2 = {
     nome: "Workshop Angular",
     local: "Laboratório 5",
     data: new Date("2026-09-10"),

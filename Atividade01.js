@@ -48,3 +48,14 @@ if (isNaN(produto.preco)) {
 
     exibirProduto(produto);
 }
+
+// Entrada 02
+
+const produto = {
+    nome: "Cadeira",
+    categoria: "Escritório",
+    preco: "450",
+    estoque: 30
+};
+
+
